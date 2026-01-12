@@ -1,0 +1,6 @@
+pyproject.toml
+src/screen_pause.egg-info/PKG-INFO
+src/screen_pause.egg-info/SOURCES.txt
+src/screen_pause.egg-info/dependency_links.txt
+src/screen_pause.egg-info/requires.txt
+src/screen_pause.egg-info/top_level.txt
